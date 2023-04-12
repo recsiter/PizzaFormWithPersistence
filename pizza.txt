@@ -1,0 +1,11 @@
+1,Margarita,31,2900,false
+2,SonGoKu,31,2562,false
+3,Magyaros Light,43,4980,true
+4,Piedone,43,3220,true
+5,Hawai,29,2530,false
+6,Bivaly,34,3900,true
+7,Some,29,3400,false
+8,srgsrg,23,1234,false
+9,efwsefsef,32,201324,false
+10,aewf,90,2323,true
+111,Lószar,40,3200,true

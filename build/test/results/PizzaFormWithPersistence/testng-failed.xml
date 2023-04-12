@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [PizzaFormWithPersistence]">
+  <test junit="true" thread-count="5" name="logic.PizzaHandlerTest(failed)">
+    <classes>
+      <class name="org.junit.runner.Description">
+        <methods>
+          <include name="testSavePizza"/>
+          <include name="testUpdatePizza"/>
+        </methods>
+      </class> <!-- org.junit.runner.Description -->
+    </classes>
+  </test> <!-- logic.PizzaHandlerTest(failed) -->
+</suite> <!-- Failed suite [PizzaFormWithPersistence] -->
